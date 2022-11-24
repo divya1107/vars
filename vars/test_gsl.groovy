@@ -8,3 +8,4 @@ def call()
     println env.BUILD_NUMBER
     println env.BUILD_USER
 }
+}
